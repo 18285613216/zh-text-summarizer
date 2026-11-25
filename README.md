@@ -90,3 +90,10 @@ zh-text-summarizer/
    ├─ sample3.txt     # 大语言模型科普文章（610 字）
    └─ gold.json       # 人工标注：每篇 3 条关键句 + 5 个关键词
 ```
+
+---
+
+## 联系方式
+
+- GitHub：[github.com/18285613216](https://github.com/18285613216)
+- 本项目为个人练习项目，代码、数据与评测脚本均在仓库内，欢迎提 Issue 交流。
